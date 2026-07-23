@@ -2,9 +2,11 @@
 
 Mike and Lauren have two supported editing paths.
 
-## Visual editing
+## Edit through Netlify
 
-Use the Visual Editor link in the Shadow project on Netlify. Open **Content** and choose **Shadow website content**. This editor covers:
+Open the Shadow project in Netlify and use **Build with an AI agent** on the project overview. Describe the change in plain English, review the generated preview, and publish it when it is correct. This path can change any page, component, image, form, or integration without exposing another client's source.
+
+The repository is also prepared for Netlify Visual Editor. Once the separate Netlify Visual Editor GitHub app is authorized for this repository, open **Content** and choose **Shadow website content**. The structured editor covers:
 
 - business contact details and social links
 - navigation
